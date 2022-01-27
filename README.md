@@ -2,4 +2,4 @@
 
 Simple template for a website - lab project 
 
-*** Desktop design only! ***
+***Desktop design only!***
